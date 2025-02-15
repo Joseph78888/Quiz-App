@@ -22,11 +22,11 @@ This is a Flutter-based Quiz App that allows users to take quizzes on various to
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/quiz_app.git
+    git clone https://github.com/Joseph78888/Quiz-App.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd quiz_app
+    cd Quiz-App
     ```
 3. Install dependencies:
     ```sh
